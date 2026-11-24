@@ -1,8 +1,0 @@
-{
-  "name": "vet-interview-lab",
-  "version": "2.0.0-draft",
-  "private": true,
-  "type": "module",
-  "description": "AI pet-owner simulator for veterinary history-taking practice",
-  "engines": { "node": ">=18" }
-}
